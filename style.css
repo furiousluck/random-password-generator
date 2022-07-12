@@ -224,4 +224,8 @@ hr {
     margin-top: 45px;
     flex-direction: column;
   }
+  #first-heading,#second-heading,#third-small-heading{
+	margin-left: 0;
+  }
+
 }
